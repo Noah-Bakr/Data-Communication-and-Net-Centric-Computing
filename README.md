@@ -2,71 +2,36 @@
 
 # Data Communication and Net-Centric Computing
 [![Project Version][version-image]][version-url]
-[![Frontend][Frontend-image]][Frontend-url]
-[![Backend][Backend-image]][Backend-url]
+[![Software][Software-image]][Software-url]
 
 > A collection of assignments regarding Network Communication utilising CISCO Packet Tracer
 
 One or two paragraphs about your project and what it does.
 
 ---
-## Author
+## Authors
 
-**Noah Bakr** 
-* *Initial work* - [repository-name][repository-url] (Repository space)
-* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider)
-* *My professional profile on* [LinkedIn][linkedin-url]
+* **Noah Bakr**
+* **Kyle Bonjour**
+* **Sebastian Nagendran**
 
 ## Showcase
 
-This project was designed to demonstrate:
+This course was designed to demonstrate:
 
-* Technology 1
-  * Tech 1 subitem
-* Technology 2
-* .
-* .
-* .
-* Technology N
+* Assignment 1
+  * TCP/IP Model, 
+  * IP Addressing,
+  * Routing between subnets
+* Assignment 2
+    * TCP/IP Model,
+* Assignment 3
+    * TCP/IP Model,
 
-## Usage example
+## Usage
 
-Bring the best usages of your project.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
----
-
-## Installation
-
-Describe how to get your project running.
-
-MacOS & Linux:
-
-```sh
-npm install my-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
----
-
-## Development setup
-
-Describe how to install all development dependencies and consider do this for multiple platforms.  
-
-```sh
-make install
-npm test
-```
-
-## Running the tests
-
-Remember this is a showcase, thus your potential employer might want to see an automated test-suite of some kind up running.
+The .pkt (Packet Tracer) files contain network presentations.
+The .pdf files contain written theory.
 
 ---
 
@@ -82,20 +47,16 @@ Remember this is a showcase, thus your potential employer might want to see an a
 * 0.0.1
     * Initial work
 
+---
+
+Copyright RMIT University (c) 2024
+
 <!-- Markdown link & img dfn's -->
 
 [header-url]: DCNC-Header.png
 [header-link]: https://github.com/Noah-Bakr
 
-[repository-url]: https://github.com/Noah-Bakr/Data-Communication-and-Net-Centric-Computing
-
-[cloud-provider-url]: https://wbshopping.herokuapp.com
-
-[linkedin-url]: https://www.linkedin.com/in/noah-bakr/
-
 [version-image]: https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=appveyor
 [version-url]: https://img.shields.io/badge/version-1.0.0-green
-[Frontend-image]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
-[Frontend-url]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
-[Backend-image]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
-[Backend-url]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
+[Software-image]: https://img.shields.io/badge/cisco-packet--tracer?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&label=Packet%20Tracer&color=%231BA0D7
+[Software-url]: https://img.shields.io/badge/cisco-packet--tracer?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&label=Packet%20Tracer&color=%231BA0D7
