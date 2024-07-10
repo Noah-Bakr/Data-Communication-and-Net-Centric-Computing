@@ -23,6 +23,7 @@ This course was designed to demonstrate:
 * TCP/IP Model
 * IP Addressing
 * Routing between subnets
+
 **Assignment 2**
 * Hamming Code
     * Error Detection and Correction
@@ -31,6 +32,7 @@ This course was designed to demonstrate:
     * Stop-and-Wait
     * Go-Back-N ARQ
     * Selective Repeat ARQ
+
 **Assignment 3**
 * Centralized Peer-to-Peer (P2P) Communication 
 * Single-Point-of-Failure
