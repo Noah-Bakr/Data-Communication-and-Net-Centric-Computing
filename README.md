@@ -19,24 +19,24 @@ This repository showcases three practical assignments from the Data Communicatio
 
 This course was designed to demonstrate:
 
-* Assignment 1
-  * TCP/IP Model
-  * IP Addressing
-  * Routing between subnets
-* Assignment 2
-    * Hamming Code
-        * Error Detection and Correction
-    * Frame Check Sequence (FCS)
-    * Error Control (Data Link Layer)
-        * Stop-and-Wait
-        * Go-Back-N ARQ
-        * Selective Repeat ARQ
-* Assignment 3
-    * Centralized Peer-to-Peer (P2P) Communication 
-    * Single-Point-of-Failure
-        * Client-Server Model
-        * Centralized P2P
-        * Chord DHT
+**Assignment 1**
+* TCP/IP Model
+* IP Addressing
+* Routing between subnets
+**Assignment 2**
+* Hamming Code
+    * Error Detection and Correction
+* Frame Check Sequence (FCS)
+* Error Control (Data Link Layer)
+    * Stop-and-Wait
+    * Go-Back-N ARQ
+    * Selective Repeat ARQ
+**Assignment 3**
+* Centralized Peer-to-Peer (P2P) Communication 
+* Single-Point-of-Failure
+    * Client-Server Model
+    * Centralized P2P
+    * Chord DHT
 
 ## Usage
 
