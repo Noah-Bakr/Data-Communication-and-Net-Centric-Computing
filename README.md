@@ -9,12 +9,6 @@
 This repository showcases three practical assignments from the Data Communication and Net-Centric Computing (DCNC) course. Utilizing Cisco Packet Tracer, these projects delve into fundamental concepts such as the TCP/IP Model, addressing and routing; Hamming Code, Error Detetection &amp; Protection and P2P Networking. Each assignment includes detailed network designs and simulations, providing hands-on demonstrations of key networking principles alongside written theory.
 
 ---
-## Authors
-
-* **Noah Bakr**
-* **Kyle Bonjour**
-* **Sebastian Nagendran**
-
 ## Showcase
 
 This course was designed to demonstrate:
@@ -46,6 +40,12 @@ The .pkt (Packet Tracer) files contain network presentations.
 The .pdf files contain written theory.
 
 ---
+
+## Authors
+
+* **Noah Bakr**
+* **Kyle Bonjour**
+* **Sebastian Nagendran**
 
 ## Built With
 
