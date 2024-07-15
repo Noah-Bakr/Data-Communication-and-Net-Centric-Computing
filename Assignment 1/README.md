@@ -71,6 +71,6 @@ Copyright RMIT University (c) 2024
 [Software-image]: https://img.shields.io/badge/cisco-packet--tracer?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&label=Packet%20Tracer&color=%231BA0D7
 [Software-url]: https://img.shields.io/badge/cisco-packet--tracer?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&label=Packet%20Tracer&color=%231BA0D7
 
-[packet-tracer-image]: Network%20Setup.png
+[packet-tracer-image]: Network-Setup.png
 [pkt-file-url]: https://github.com/Noah-Bakr/Data-Communication-and-Net-Centric-Computing/blob/main/Assignment%201/DCNC%20Assignment%201.pkt
 [network-video]: https://github.com/user-attachments/assets/a1bdb97d-daf8-4743-9b8c-763220fc7b37
