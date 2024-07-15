@@ -73,4 +73,6 @@ Copyright RMIT University (c) 2024
 
 [packet-tracer-image]: Network-Setup.png
 [pkt-file-url]: https://github.com/Noah-Bakr/Data-Communication-and-Net-Centric-Computing/blob/main/Assignment%203/DCNC%20Assignment%203.pkt
-[network-video]: 
+[network-video]: https://github.com/user-attachments/assets/1acb1a0c-7363-42e1-b061-fd3870b84443
+
+
