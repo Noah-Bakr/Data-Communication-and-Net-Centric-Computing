@@ -51,6 +51,7 @@ The .pdf files contain written theory.
 
 * [CISCO Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Network Demonstration
 * [Microsoft Word](https://www.microsoft.com/en-au/microsoft-365/word) - PDF file creation
+* [Microsoft PowerPoint](https://www.microsoft.com/en-au/microsoft-365/powerpoint) - PDF slideshow file creation
 
 ## Release History
 
