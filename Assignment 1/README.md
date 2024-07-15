@@ -37,10 +37,9 @@ The .pdf file contains written theory (showcase).
 NOTE: CISCO Packet Tracer is required to run the simulation
 <details>
    <summary>Network Video Demonstration</summary>
-   [![header][network-video]]
+   Video player is not working. Download file: A1-Network-Video.mp4 to view.
+   <video type="video/mp4" src="A1-Network-Video.mp4" width="320" height="240" controls></video>
 </details>
-
-
 
 ---
 ## Authors
@@ -77,4 +76,4 @@ Copyright RMIT University (c) 2024
 
 [packet-tracer-image]: Network%20Setup.png
 [pkt-file-url]: https://github.com/Noah-Bakr/Data-Communication-and-Net-Centric-Computing/blob/main/Assignment%201/DCNC%20Assignment%201.pkt
-[network-video]: A1-Network-Video.gif
+[network-video]: A1-Network-Video.mp4
