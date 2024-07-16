@@ -35,9 +35,6 @@ This assignment was designed to demonstrate:
 The .pdf file contains written theory (showcase).
 
 ---
-## Hamming Code
-
----
 ## Authors
 
 * **Noah Bakr**
