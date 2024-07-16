@@ -34,7 +34,9 @@ The .pdf file contains written theory (showcase).
 ---
 ## Network Presentation
 [![header][packet-tracer-image]][pkt-file-url]
-NOTE: CISCO Packet Tracer is required to run the simulation
+
+> [!IMPORTANT]
+> CISCO Packet Tracer is required to run the simulation
 
 [network-video]
 
