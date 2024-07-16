@@ -4,15 +4,16 @@
 [![Project Version][version-image]][version-url]
 [![Software][Software-image]][Software-url]
 
-> A short sentence about the assignment.
+> Demonstration of centralized peer-to-peer (P2P) communication network. Theory of Single-Point-of-Failure (SPoF).
 
-
-A paragraph about the assignment.
+The network architecture comprised three PCs, each connected to separate switches, and an FTP server with its own dedicated switch. The key objectives were to establish connectivity amongst these devices using FTP/TCP/IP protocols; configure FTP for file-sharing &amp; peer list distribution; and demonstrate Single-Point-of-Failure principles, such as the Client-Server Model &amp; Chord Distributed Hash Table (DHT) for efficient network performance. This project involves CISCO Packet Tracer.
 
 <details>
    <summary>Further Assignment context</summary>
    <br>
-   Further explanation of assignment
+   Creation of the centralized peer-to-peer (P2P) communication network explored the behaviour &amp; role of a central server, contributing to a deeper understanding of network architecture and management practices in peer-to-peer communications. The simulation allowed for the exploration of network performance, scalability, fault tolerance, and FTP server behavior. By monitoring metrics such as latency and packet loss, practical insights into optimizing network efficiency and ensuring robust performance were gained.
+   <br><br>
+   The assignment explored the trade-offs between centralized and decentralized models. These insights were crucial for designing resilient, scalable networks capable of meeting the demands of modern communication and data transfer requirements. Chord DHT facilitates efficient data lookup and storage across nodes, which was studied in depth to understand its implications for network scalability and fault tolerance.
 </details>
 
 ---
@@ -34,7 +35,9 @@ The .pdf file contains written theory (showcase).
 ---
 ## Network Presentation
 [![header][packet-tracer-image]][pkt-file-url]
-NOTE: CISCO Packet Tracer is required to run the simulation
+
+> [!IMPORTANT]
+> CISCO Packet Tracer is required to run the simulation
 
 [network-video]
 
