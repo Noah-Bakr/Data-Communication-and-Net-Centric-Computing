@@ -61,7 +61,7 @@ The .pdf file contains written theory (showcase).
 
 ---
 
-Copyright RMIT University (c) 2024
+&copy; RMIT University 2024
 
 <!-- Markdown link & img dfn's -->
 
